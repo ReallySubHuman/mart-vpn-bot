@@ -1,0 +1,12 @@
+#profile-title: base64:0JzQsNGA0YIgVlBOIHwg0J/RgNC10LzQuNGD0Lw=
+#announce: base64:8J+SjiDQn9GA0LXQvNC40YPQvCDQnNCw0YDRgiBWUE4gfCDQm9C40LzQuNGCOiA1MDAg0JPQkSAvINC80LXRgdGP0YYgfCDQlNC+OiAwNC4xMi4yMDI2IDIxOjM4INCc0KHQmg==
+#profile-update-interval: 6
+#subscription-userinfo: upload=0; download=0; total=536870912000; expire=1796409539
+#support-url: https://t.me/your_support_username
+# Март VPN | ID: 8727107364 | paid | 04.12.2026 21:38 МСК
+
+vless://f4b7c015-a6c3-4079-9f8f-6e19fbf3fa92@auto-eu.martvpn.invalid:443?encryption=none&security=reality&sni=google.com&fp=chrome&type=tcp#⚡ Автовыбор (Оптимальный)
+vless://f4b7c015-a6c3-4079-9f8f-6e19fbf3fa92@de-fra.martvpn.invalid:443?encryption=none&security=reality&sni=google.com&fp=chrome&type=tcp#🇩🇪 Германия (Франкфурт)
+vless://f4b7c015-a6c3-4079-9f8f-6e19fbf3fa92@nl-ams.martvpn.invalid:443?encryption=none&security=reality&sni=google.com&fp=chrome&type=tcp#🇳🇱 Нидерланды (Амстердам)
+vless://f4b7c015-a6c3-4079-9f8f-6e19fbf3fa92@fr-par.martvpn.invalid:443?encryption=none&security=reality&sni=google.com&fp=chrome&type=tcp#🇫🇷 Франция (Париж)
+vless://f4b7c015-a6c3-4079-9f8f-6e19fbf3fa92@pl-waw.martvpn.invalid:443?encryption=none&security=reality&sni=google.com&fp=chrome&type=tcp#🇵🇱 Польша (Варшава)
