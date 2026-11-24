@@ -1,0 +1,8 @@
+#profile-title: base64:0JzQsNGA0YIgVlBOIHwg0J/RgNC+0LHQvdCw0Y8=
+#announce: base64:8J+OgSDQn9GA0L7QsdC90LDRjyDQnNCw0YDRgiBWUE4gfCDQm9C40LzQuNGCOiAxMCDQk9CRL9C00LXQvdGMICg3MCDQk9CRKSB8INCU0L46IDAxLjEyLjIwMjYgMjE6MzYg0JzQodCa
+#profile-update-interval: 6
+#subscription-userinfo: upload=0; download=0; total=75161927680; expire=1796150208
+#support-url: https://t.me/your_support_username
+# Март VPN | ID: 8727107364 | trial | 01.12.2026 21:36 МСК
+
+vless://832369ca-25a1-4cc4-8eea-34a320142964@fi-test.martvpn.invalid:443?encryption=none&security=tls&sni=fi-test.martvpn.invalid&type=ws&path=%2Fmart#🇫🇮 Финляндия (Тест)
