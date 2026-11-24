@@ -1,9 +1,9 @@
 #profile-title: base64:0JzQsNGA0YIgVlBOIHwg0J/RgNC10LzQuNGD0Lw=
-#announce: base64:8J+SjiDQn9GA0LXQvNC40YPQvCDQnNCw0YDRgiBWUE4gKNCi0LXRgdGCKSB8INCU0L46IDIzLjAxLjIwMjcgMjA6MzIg0JzQodCa
+#announce: base64:8J+SjiDQn9GA0LXQvNC40YPQvCDQnNCw0YDRgiBWUE4gKNCi0LXRgdGCKSB8INCU0L46IDAyLjAyLjIwMjcgMjA6MzIg0JzQodCa
 #profile-update-interval: 6
-#subscription-userinfo: upload=0; download=0; total=536870912000; expire=1800725536
+#subscription-userinfo: upload=0; download=0; total=536870912000; expire=1801589536
 #support-url: https://t.me/your_support_username
-# Март VPN | ID: 8977999887 | paid | 23.01.2027 20:32 МСК
+# Март VPN | ID: 8977999887 | paid | 02.02.2027 20:32 МСК
 
 vless://f256f9ff-94aa-4c1d-ab59-d9d466fdae82@auto-eu.martvpn.invalid:443?encryption=none&security=reality&sni=google.com&fp=chrome&type=tcp#⚡ Автовыбор (Оптимальный)
 vless://f256f9ff-94aa-4c1d-ab59-d9d466fdae82@de-fra.martvpn.invalid:443?encryption=none&security=reality&sni=google.com&fp=chrome&type=tcp#🇩🇪 Германия (Франкфурт)
